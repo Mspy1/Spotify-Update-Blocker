@@ -1,2 +1,2 @@
 # Spotify-Update-Blocker
-A bat script that blocks the Spotify Auto-Update
+This script blocks the Spotify auto-update, as certain Spotify updates breaks the Adblocking methods currently being used. 
